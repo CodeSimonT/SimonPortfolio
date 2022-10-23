@@ -1,0 +1,1332 @@
+/* 
+    for text font
+    font-size: .8rem;
+*/
+@media(min-width: 350px) {
+    /* repeat styles */
+    .title {
+        font-size: 2.5rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 2.5rem;
+    }
+    #home .home .home-content {
+        margin-left: -10px;
+      }
+    #home .top-heading .first-column .item {    
+        height: 35px;
+    }
+    #home .top-heading .second-column,
+    #home .top-heading .third-column {
+        height: 35px;
+    }
+    #home .home .home-content .bottom-heading .bottom-text {
+        font-size: .8rem;
+    }
+    #home .home .home-content .bottom-heading .head-button {
+        font-size: 1rem;
+    }
+    #home .home .home-content .scroll1 {
+        font-size: .8rem;
+        left: -33px;
+    }
+    #home .home .home-content .scroll2 {
+        font-size: .8rem;
+        right: -33px;
+    }
+    /* end home section */
+    
+
+    /* service section */
+    #service .service .left-content {
+        width: 330px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: .9rem;
+    }
+    #service .service .right-content {
+        width: 330px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 330px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: .8rem;
+    }
+    #service .service .scroll1 {
+        font-size: .8rem;
+        left: -33px;
+    }
+    #service .service .scroll2 {
+        font-size: .8rem;
+        right: -33px;
+    }
+    #service .service .overlay-text {
+        left: -60px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+
+    /* project section */
+    #project .project .overlay-text1 {
+        right: -100px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlaytext2 {
+        left: 100px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .scroll1 {
+        font-size: .8rem;
+        left: -33px;
+    }
+    #project .project .scroll2 {
+        font-size: .8rem;
+        right: -33px;
+        
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 330px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 330px;
+    }
+    #contact .contact .overlay-text1 {
+        color: var(--buttoncolor);
+        position: absolute;
+        left: 100px;
+        top: -150px;
+        font-size: 13rem;
+        font-weight: 900;
+        font-family: var(--textfont4);
+      }
+    /* end contact section */
+}
+@media(min-width: 400px) {
+    /* repeat styles */
+    .title {
+        font-size: 2.5rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 2.8rem;
+    }
+    #home .home .home-content {
+        margin-left: -5px;
+      }
+    #home .top-heading .first-column .item {    
+        height: 40px;
+    }
+    #home .top-heading .second-column,
+    #home .top-heading .third-column {
+        height: 40px;
+    }
+    #home .home .home-content .bottom-heading .bottom-text {
+        font-size: .8rem;
+    }
+    #home .home .home-content .bottom-heading .head-button {
+        font-size: 1rem;
+    }
+    #home .home .home-content .scroll1 {
+        font-size: .8rem;
+        left: -33px;
+    }
+    #home .home .home-content .scroll2 {
+        font-size: .8rem;
+        right: -33px;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 370px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: .9rem;
+    }
+    #service .service .right-content {
+        width: 370px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 370px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: .8rem;
+    }
+    #service .service .scroll1 {
+        font-size: .8rem;
+        left: -33px;
+    }
+    #service .service .scroll2 {
+        font-size: .8rem;
+        right: -33px;
+    }
+    #service .service .overlay-text {
+        left: -20px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+
+    /* project section */
+    #project .project .project-container .project-item img {
+        width: 350px;
+    }
+    #project .project .overlay-text1 {
+        right: 10px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlaytext2 {
+        left: 100px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .scroll1 {
+        font-size: .8rem;
+        left: -33px;
+    }
+    #project .project .scroll2 {
+        font-size: .8rem;
+        right: -33px;
+        
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 370px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 370px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 100px;
+        top: -150px;
+        font-size: 13rem;
+      }
+    /* end contact section */
+}
+@media(min-width: 450px) {
+    /* repeat styles */
+    .title {
+        font-size: 3rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 3rem;
+    }
+    #home .home .home-content {
+        margin-left: 5px;
+      }
+    #home .top-heading .first-column .item {    
+        height: 50px;
+    }
+    #home .top-heading .second-column,
+    #home .top-heading .third-column {
+        height: 50px;
+    }
+    #home .home .home-content .bottom-heading .bottom-text {
+        font-size: .8rem;
+    }
+    #home .home .home-content .bottom-heading .head-button {
+        font-size: 1rem;
+    }
+    #home .home .home-content .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #home .home .home-content .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    /* end home section */
+
+    
+    /* service section */
+    #service .service .left-content {
+        width: 390px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: .9rem;
+    }
+    #service .service .right-content {
+        width: 390px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 390px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: .9rem;
+    }
+    #service .service .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 20px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+
+    /* project section */
+    #project .project .project-container .project-item img {
+        width: 380px;
+    }
+    #project .project .overlay-text1 {
+        right: 10px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlaytext2 {
+        left: 100px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #project .project .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+        
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 390px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 390px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 150px;
+        top: -150px;
+        font-size: 13rem;
+      }
+    /* end contact section */
+}
+@media(
+        min-width: 500px
+    ) {
+    /* repeat styles */
+    .title {
+        font-size: 3.3rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 3.3rem;
+    }
+    #home .home .home-content {
+        margin-left: 5px;
+      }
+    #home .top-heading .first-column .item {    
+        height: 50px;
+    }
+    #home .top-heading .second-column,
+    #home .top-heading .third-column {
+        height: 50px;
+    }
+    #home .home .home-content .bottom-heading .bottom-text {
+        font-size: .8rem;
+    }
+    #home .home .home-content .bottom-heading .head-button {
+        font-size: 1.2rem;
+    }
+    #home .home .home-content .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #home .home .home-content .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 400px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 400px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 400px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 900px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+
+    /* project section */
+    #project .project .project-container .project-item img {
+        width: 380px;
+    }
+    #project .project .overlay-text1 {
+        right: 50px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text2 {
+        left: 200px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #project .project .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+        
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 400px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 400px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 230px;
+        top: -150px;
+        font-size: 13rem;
+      }
+    /* end contact section */
+}
+
+@media(min-width: 550px) {
+    /* repeat styles */
+    .title {
+        font-size: 3.6rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 3.6rem;
+    }
+    #home .home .home-content {
+        margin-left: 5px;
+      }
+    #home .top-heading .first-column .item {    
+        height: 60px;
+    }
+    #home .top-heading .second-column,
+    #home .top-heading .third-column {
+        height: 60px;
+    }
+    #home .home .home-content .bottom-heading .bottom-text {
+        font-size: .8rem;
+    }
+    #home .home .home-content .bottom-heading .head-button {
+        font-size: 1.2rem;
+    }
+    #home .home .home-content .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #home .home .home-content .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 400px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 400px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 400px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 130px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+
+    /* project section */
+    #project .project .project-container .project-item img {
+        width: 380px;
+    }
+    #project .project .overlay-text1 {
+        right: 150px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text2 {
+        left: 300px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .scroll1 {
+        font-size: .9rem;
+        left: -37px;
+    }
+    #project .project .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+        
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 400px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 400px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 270px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 300px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media(min-width: 600px) {
+    /* repeat styles */
+    .title {
+        font-size: 3.6rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 3.8rem;
+    }
+    #home .home .home-content {
+        margin-left: 15px;
+      }
+    
+    #home .home .home-content .bottom-heading .bottom-text {
+        font-size: .9rem;
+    }
+    #home .home .home-content .bottom-heading .head-button {
+        padding: 15px 20px;
+    }
+    
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 500px;
+    }
+    #service .service .right-content {
+        width: 500px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 500px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 180px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+
+    /* project section */
+    #project .project .project-container .project-item img {
+        width: 450px;
+    }
+    #project .project .overlay-text1 {
+        right: 150px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text2 {
+        left: 300px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 500px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 500px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 270px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 300px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media (min-width: 700px) {
+    /* repeat styles */
+    .title {
+        font-size: 3.6rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 600px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 600px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 600px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 250px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container .project-item img {
+        width: 600px;
+    }
+    #project .project .overlay-text1 {
+        right: 250px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text2 {
+        left: 400px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 600px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 600px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 350px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 300px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+
+@media (min-width: 700px) {
+    /* repeat styles */
+    .title {
+        font-size: 3.6rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 650px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 600px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 600px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 250px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    #project .project .project-container .project-item {
+        margin-bottom: none;
+    }
+    #project .project .project-container .project-item img {
+        width: 300px;
+        
+    }
+    #project .project .overlay-text1 {
+        right: 250px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text2 {
+        left: 400px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 600px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 600px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 350px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 300px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media (min-width: 800px) {
+    /* repeat styles */
+    .title {
+        font-size: 4rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 700px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 700px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 700px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 360px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    #project .project .project-container .project-item {
+        margin-bottom: none;
+    }
+    #project .project .project-container .project-item img {
+        width: 350px;
+        
+    }
+    #project .project .overlay-text1 {
+        right: 360px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text2 {
+        left: 400px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 700px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 700px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 440px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 300px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media (min-width: 900px) {
+    /* repeat styles */
+    .title {
+        font-size: 4rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 750px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 750px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 750px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 470px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    #project .project .project-container .project-item {
+        margin-bottom: none;
+    }
+    #project .project .project-container .project-item img {
+        width: 350px;
+        
+    }
+    #project .project .overlay-text2 {
+        left: 500px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text1 {
+        right: 430px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 750px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 750px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 500px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 400px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media (min-width: 1000px) {
+    /* repeat styles */
+    .title {
+        font-size: 4rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 800px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 800px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 800px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 580px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    #project .project .project-container .project-item {
+        margin-bottom: none;
+    }
+    #project .project .project-container .project-item img {
+        width: 380px;
+        
+    }
+    #project .project .overlay-text2 {
+        left: 580px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text1 {
+        right: 500px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 750px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 750px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 500px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 400px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media (min-width: 1100px) {
+    /* repeat styles */
+    .title {
+        font-size: 4rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 1000px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 1000px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 1000px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 670px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    #project .project .project-container .project-item {
+        margin-bottom: none;
+    }
+    #project .project .project-container .project-item img {
+        width: 420px;
+        
+    }
+    #project .project .overlay-text2 {
+        left: 580px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text1 {
+        right: 600px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 750px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 750px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 500px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 400px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
+@media (min-width: 1100px) {
+    /* repeat styles */
+    .title {
+        font-size: 4rem;
+      }
+    /* end repeat styles */
+
+    /* home section */
+    #home .home .home-content .top-heading {
+        font-size: 4rem;
+    }
+    /* end home section */
+
+
+    /* service section */
+    #service .service .left-content {
+        width: 1000px;
+    }
+    #service .service .right-content .title-content {
+        font-size: 1.5rem;
+    }
+    #service .service .left-content .text {
+        font-size: 1.2rem;
+    }
+    #service .service .right-content {
+        width: 1000px;
+        margin-bottom: 70px;
+    }
+    #service .service .right-content .icons {
+        width: 1000px;
+        
+    } 
+    #service .service .right-content .icons p {
+        font-size: 1rem;
+    }
+    #service .service .scroll1 {
+        font-size: 1rem;
+        left: -37px;
+    }
+    #service .service .scroll2 {
+        font-size: .9rem;
+        right: -37px;
+    }
+    #service .service .overlay-text {
+        left: 670px;
+        top: 0;
+        font-size: 13rem;
+    }
+    /* end service section */
+
+    /* project section */
+    #project .project .project-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    #project .project .project-container .project-item {
+        margin-bottom: none;
+    }
+    #project .project .project-container .project-item img {
+        width: 420px;
+        
+    }
+    #project .project .overlay-text2 {
+        left: 580px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #project .project .overlay-text1 {
+        right: 700px;
+        bottom: 500px;
+        font-size: 13rem;
+    }
+    
+    /* end project section */
+
+
+    /* contact section */
+    #contact .contact .left-item {
+        width: 750px;
+    }
+    #contact .contact-container .rigth-item img{
+        width: 750px;
+    }
+    #contact .contact .overlay-text1 {
+        left: 500px;
+        top: -150px;
+        font-size: 13rem;
+    }
+    #contact .contact .overlay-text2 {
+        right: 400px;
+        bottom: -150px;
+      }
+    /* end contact section */
+}
